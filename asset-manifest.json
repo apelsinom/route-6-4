@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/route-6-4/static/css/main.a6b3c4d4.css",
+    "main.js": "/route-6-4/static/js/main.f01f7604.js",
+    "static/js/592.ab77258f.chunk.js": "/route-6-4/static/js/592.ab77258f.chunk.js",
+    "static/media/pumaModel2.webp": "/route-6-4/static/media/pumaModel2.75e068af205b4dbd469b.webp",
+    "static/media/pumaModel3.webp": "/route-6-4/static/media/pumaModel3.7729c4a312295bd60406.webp",
+    "static/media/abibasModel2.webp": "/route-6-4/static/media/abibasModel2.e5a62e54f44a3155834b.webp",
+    "static/media/abibasModel1.webp": "/route-6-4/static/media/abibasModel1.63a8a94302bed22ecc2d.webp",
+    "static/media/abibasModel3.webp": "/route-6-4/static/media/abibasModel3.59ed966bf05c0221dc61.webp",
+    "static/media/pumaModel1.webp": "/route-6-4/static/media/pumaModel1.e56e506c0d470d82198c.webp",
+    "static/media/adidasModel2.webp": "/route-6-4/static/media/adidasModel2.4c2aceb4853292b5eab9.webp",
+    "static/media/adidasModel3.webp": "/route-6-4/static/media/adidasModel3.b43badfb5bc18129337b.webp",
+    "static/media/adidasModel1.webp": "/route-6-4/static/media/adidasModel1.bfcb34a2e48044d7f26f.webp",
+    "index.html": "/route-6-4/index.html",
+    "main.a6b3c4d4.css.map": "/route-6-4/static/css/main.a6b3c4d4.css.map",
+    "main.f01f7604.js.map": "/route-6-4/static/js/main.f01f7604.js.map",
+    "592.ab77258f.chunk.js.map": "/route-6-4/static/js/592.ab77258f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b3c4d4.css",
+    "static/js/main.f01f7604.js"
+  ]
+}
