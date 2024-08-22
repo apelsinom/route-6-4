@@ -12,6 +12,10 @@ import {LogIn} from "../components/LogIn/LogIn";
 
 const publicRoutes:RouteObject[] = [
     {
+        path: '',
+        element: <Navigate to={PATH.PAGE1} />,
+    },
+    {
         path: PATH.PAGE1,
         element: <Sneakers catalog={sneakersArr[PATH.PAGE1]} item={PATH.PAGE1.toUpperCase()}/>,
     },

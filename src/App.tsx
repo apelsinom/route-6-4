@@ -1,10 +1,14 @@
 import React from 'react';
 import styles from "./components/Site.module.css";
-import {Outlet} from "react-router-dom";
+import {Outlet, useNavigate} from "react-router-dom";
 import {ButtonLink} from "./components/pages/ButtonLink";
 import {PATH} from "./DateCatalog/Catalog";
 
 function App() {
+    const navigate = useNavigate();
+    const navigateHandler = () => {
+        navigate(-1);
+    }
     return (
         <div>
             <div className={styles.header}><h1>HEADER</h1></div>
@@ -17,6 +21,10 @@ function App() {
                     <ButtonLink address={'protected'} firm={'protected'.toUpperCase()}/>
                 </div>
                 <div className={styles.content}>
+                    <div className={styles.HorizontalNavigation}>
+                        <button className={styles.ButtonLikeLink} onClick={navigateHandler}>НАЗАД</button>
+                        <a className={styles.LinkLikeButton} href={PATH.PAGE1}>НА ГЛАВНУЮ</a>
+                    </div>
                     <Outlet />
 
                     {/*Синтаксис, который был до router 6.4*/}
