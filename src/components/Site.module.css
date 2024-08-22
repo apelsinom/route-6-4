@@ -11,7 +11,7 @@
 }
 
 .nav{
-    background-color: white;
+    background-color: rgba(126, 126, 126, 0.25);
     min-height: 400px;
     width: 30%;
     color:#282c34;
