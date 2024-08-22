@@ -14,6 +14,7 @@ function App() {
                     <ButtonLink address={PATH.PAGE2} firm={PATH.PAGE2.toUpperCase()}/>
                     <ButtonLink address={PATH.PAGE3} firm={PATH.PAGE3.toUpperCase()}/>
                     <ButtonLink address={PATH.PRICES} firm={PATH.PRICES.toUpperCase()}/>
+                    <ButtonLink address={'protected'} firm={'protected'.toUpperCase()}/>
                 </div>
                 <div className={styles.content}>
                     <Outlet />

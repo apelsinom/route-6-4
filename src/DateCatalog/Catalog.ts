@@ -1,13 +1,12 @@
-import abibasModel1 from './../assets/FotoAbibas/Treziod_2.0_Shoes_Red_GY0050_01_standard.webp';
-import abibasModel2 from './../assets/FotoAbibas/iod-2-shoes-blue-gy0044-01-standard.webp';
-import abibasModel3 from './../assets/FotoAbibas/egan-shoes-white-h01877-01-standard.webp';
-import pumaModel1 from "../assets/FotoPuma/6712472735.webp";
-import pumaModel2 from "../assets/FotoPuma/v13xmxew9jut44k3zjqi1f6k4fkentxg.webp";
-import pumaModel3 from "../assets/FotoPuma/88pyppvetg0thxagqqtgdh9rrklgxnm2.webp";
-import adidasModel1 from "../assets/FotoAdidas/Superstar_XLG_Shoes_Black_IG9777_01_standard.webp";
-import adidasModel2
-    from "../assets/FotoAdidas/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.webp";
-import adidasModel3 from "../assets/FotoAdidas/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.webp";
+import abibasModel1 from '../assets/FotoAbibas/abibasModel1.webp';
+import abibasModel2 from '../assets/FotoAbibas/abibasModel2.webp';
+import abibasModel3 from '../assets/FotoAbibas/abibasModel3.webp';
+import pumaModel1 from "../assets/FotoPuma/pumaModel1.webp";
+import pumaModel2 from "../assets/FotoPuma/pumaModel2.webp";
+import pumaModel3 from "../assets/FotoPuma/pumaModel3.webp";
+import adidasModel1 from "../assets/FotoAdidas/adidasModel1.webp";
+import adidasModel2 from "../assets/FotoAdidas/adidasModel2.webp";
+import adidasModel3 from "../assets/FotoAdidas/adidasModel3.webp";
 import {v1} from "uuid";
 
 export const PATH = {
