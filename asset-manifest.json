@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/route-6-4/static/css/main.a6b3c4d4.css",
-    "main.js": "/route-6-4/static/js/main.95256907.js",
+    "main.css": "/route-6-4/static/css/main.8de9b05d.css",
+    "main.js": "/route-6-4/static/js/main.47b3a33f.js",
     "static/js/592.ab77258f.chunk.js": "/route-6-4/static/js/592.ab77258f.chunk.js",
     "static/media/pumaModel2.webp": "/route-6-4/static/media/pumaModel2.75e068af205b4dbd469b.webp",
     "static/media/pumaModel3.webp": "/route-6-4/static/media/pumaModel3.7729c4a312295bd60406.webp",
@@ -13,12 +13,12 @@
     "static/media/adidasModel3.webp": "/route-6-4/static/media/adidasModel3.b43badfb5bc18129337b.webp",
     "static/media/adidasModel1.webp": "/route-6-4/static/media/adidasModel1.bfcb34a2e48044d7f26f.webp",
     "index.html": "/route-6-4/index.html",
-    "main.a6b3c4d4.css.map": "/route-6-4/static/css/main.a6b3c4d4.css.map",
-    "main.95256907.js.map": "/route-6-4/static/js/main.95256907.js.map",
+    "main.8de9b05d.css.map": "/route-6-4/static/css/main.8de9b05d.css.map",
+    "main.47b3a33f.js.map": "/route-6-4/static/js/main.47b3a33f.js.map",
     "592.ab77258f.chunk.js.map": "/route-6-4/static/js/592.ab77258f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b3c4d4.css",
-    "static/js/main.95256907.js"
+    "static/css/main.8de9b05d.css",
+    "static/js/main.47b3a33f.js"
   ]
 }
